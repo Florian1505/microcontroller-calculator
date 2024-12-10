@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\flori\\OneDrive\\Desktop\\Study Flo\\C_C\u002B\u002B\\calculator_main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0893B8AB-C88B-4A34-9AB8-A12D6E3C2012}|calculator_main.vcxproj|C:\\Users\\flori\\OneDrive\\Desktop\\Study Flo\\C_C\u002B\u002B\\calculator_main\\calculator_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0893B8AB-C88B-4A34-9AB8-A12D6E3C2012}|calculator_main.vcxproj|solutionrelative:calculator_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "calculator_main.c",
+              "DocumentMoniker": "C:\\Users\\flori\\OneDrive\\Desktop\\Study Flo\\C_C\u002B\u002B\\calculator_main\\calculator_main.c",
+              "RelativeDocumentMoniker": "calculator_main.c",
+              "ToolTip": "C:\\Users\\flori\\OneDrive\\Desktop\\Study Flo\\C_C\u002B\u002B\\calculator_main\\calculator_main.c",
+              "RelativeToolTip": "calculator_main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-10T17:37:49.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
