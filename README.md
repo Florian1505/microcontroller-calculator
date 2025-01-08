@@ -59,8 +59,7 @@ Das Projekt ist für ArduinoUno-Boards konzipiert, kann jedoch leicht an andere 
 4. Gib `exit` ein, um das Programm zu beenden.
 
 ## Beispielausgabe
-```
-Willkommen zum Mikrocontroller-Taschenrechner!
+Willkommen zum Taschenrechner für grundlegende algebraischer Berechnungen!
 Geben Sie die Berechnung ein oder 'exit' zum Beenden:
 34 * 72
 Ergebnis vom Arduino: 2448
